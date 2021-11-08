@@ -1,0 +1,246 @@
+* {
+    box-sizing: border-box;
+    max-width: 840px;
+    
+    position: relative;
+    left: 30px;
+}
+/* 1. Colors */
+/* 2. Fonts*/
+/* 3. Text Styles */
+
+
+/*1. Colors */
+h1 {
+    text-align: center;
+}
+
+div.colors {
+    border: 2px solid grey ;
+    padding-left: 5px;
+    margin-bottom: 10px;
+    color: #FFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+}
+
+h2.colors-header {
+    color: black;
+    margin-bottom: 30px;
+}
+
+.blue {
+    background-color: #18EDDB;
+    width: 200px;
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    line-height: 25px;
+    position: relative;
+    bottom: 30px;
+}
+
+.first-accent {
+    display: inline-block;
+    width: 200px;
+    background-color: #0C8EF7;
+    list-style-type: none;
+    margin-right: 10px;
+    padding: 10px;
+    line-height: 25px;
+    position: relative;
+    bottom: 30px;
+}
+
+.second-accent {
+    display: inline-block;
+    width: 200px;
+    background-color: #0BB0D6;
+    list-style-type: none;
+    margin-right: 10px;
+    padding: 10px;
+    line-height: 25px;
+    position: relative;
+    bottom: 30px;
+}
+
+.third-accent {
+    display: inline-block;
+    width: 200px;
+    background-color: #0BD68C;
+    list-style-type: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    line-height: 25px;
+    position: relative;
+    bottom: 30px;
+}
+
+.fourth-accent {
+    display: inline-block;
+    width: 200px;
+    background-color: #0CF75F;
+    list-style-type: none;
+    margin-right: 10px;
+    padding: 10px;
+    line-height: 25px;
+    position: relative;
+    bottom: 30px;
+}
+
+/*2. Fonts */
+div.fonts {
+    border: 2px solid grey ;
+} 
+
+.fonts-header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+}
+
+h3.cambria-header  {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+ul.cambria {
+    list-style-type: none;
+    margin-left: -70px;
+    font-family: Cambria;
+    text-align: justify;
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+}
+
+li.cambria-font {
+    font-size: 20px;
+}
+
+li.cambria-bold {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+li.cambria-italics {
+    font-style: italic;
+    font-size: 20px;
+}
+
+ul.cursive {
+    list-style-type: none;
+    margin-left: -70px;
+    font-family: cursive;
+    text-align: justify;
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+}
+
+h3.cursive-header {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+li.cursive-font {
+    font-size: 20px;
+}
+
+li.cursive-bold {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+li.cursive-italics {
+    font-style: italic;
+    font-size: 20px;
+}
+
+ul.segoeui {
+    list-style-type: none;
+    margin-left: -70px;
+    font-family: 'Segoe UI';
+    text-align: justify;
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+}
+
+h3.segoeui-header {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+li.segoeui-font {
+    font-size: 20px;
+}
+
+li.segoeui-bold {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+li.segoeui-italics {
+    font-style: italic;
+    font-size: 20px;
+}
+
+/* Text Styles */
+div.text-styles {
+    border: 2px solid grey;
+    margin-bottom: 20px;
+    position: relative;
+    top: 10px;
+}
+
+.text-styles-header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+}
+
+h1.main-page-title {
+    margin-left: -320px;
+    font-family: Cambria;
+}
+
+ul.main-page-title-font {
+    font-family: Cambria;
+    margin-left: -70px;
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+}
+
+h4.sub-heading {
+    position: relative;
+    bottom: 30px;
+    font-family: 'Segoe UI';
+}
+
+ul.sub-heading-font {
+    font-family: 'Segoe UI';
+    margin-left: -70px;
+    display: inline-block;
+    position: relative;
+    bottom: 50px;
+}
+
+h5.para-graph {
+    position: relative;
+    bottom: 50px;
+    font-family: Cursive;
+
+}
+
+ul.para-font {
+    font-family: cursive;
+    margin-left: -70px;
+    position: relative;
+    bottom: 50px;
+}
